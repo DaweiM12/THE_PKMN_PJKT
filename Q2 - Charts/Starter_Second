@@ -1,0 +1,25 @@
+"","#","Name","type_1","type_2","Total","HP","Attack","Defense","Sp. Atk","Sp. Def","Speed"
+"1",2,"Ivysaur","Grass","Poison",405,60,62,63,80,80,60
+"2",5,"Charmeleon","Fire",NA,405,58,64,58,80,65,80
+"3",8,"Wartortle","Water",NA,405,59,63,80,65,80,58
+"4",153,"Bayleef","Grass",NA,405,60,62,80,63,80,60
+"5",156,"Quilava","Fire",NA,405,58,64,58,80,65,80
+"6",159,"Croconaw","Water",NA,405,65,80,80,59,63,58
+"7",253,"Grovyle","Grass",NA,405,50,65,45,85,65,95
+"8",256,"Combusken","Fire","Fighting",405,60,85,60,85,60,55
+"9",259,"Marshtomp","Water","Ground",405,70,85,70,60,70,50
+"10",388,"Grotle","Grass",NA,405,75,89,85,55,65,36
+"11",391,"Monferno","Fire","Fighting",405,64,78,52,78,52,81
+"12",394,"Prinplup","Water",NA,405,64,66,68,81,76,50
+"13",496,"Servine","Grass",NA,413,60,60,75,60,75,83
+"14",499,"Pignite","Fire","Fighting",418,90,93,55,70,55,55
+"15",502,"Dewott","Water",NA,413,75,75,60,83,60,60
+"16",651,"Quilladin","Grass",NA,405,61,78,95,56,58,57
+"17",654,"Braixen","Fire",NA,409,59,59,58,90,70,73
+"18",657,"Frogadier","Water",NA,405,54,63,52,83,56,97
+"19",723,"Dartrix","Grass","Flying",420,78,75,75,70,70,52
+"20",726,"Torracat","Fire",NA,420,65,85,50,80,50,90
+"21",729,"Brionne","Water",NA,420,60,69,69,91,81,50
+"22",811,"Thwackey","Grass",NA,420,70,85,70,55,60,80
+"23",814,"Raboot","Fire",NA,420,65,86,60,55,60,94
+"24",817,"Drizzile","Water",NA,420,65,60,55,95,55,90
